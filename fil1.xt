@@ -1,0 +1,13 @@
+prog1
+git init
+git status
+git add
+git commit -m "cdd"
+git log
+prg2
+git branch
+git branch branch-name
+git switch branch-name (add some lines in new branch)
+git switch master
+git merge branch-name
+prg3
