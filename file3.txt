@@ -1,1 +1,82 @@
 changes done in file 3
+prog1
+git init
+git status
+git add
+git commit -m "cdd"
+git log
+prg2
+git branch
+git branch branch-name
+git switch branch-name (add some lines in new branch)
+git switch master
+git merge branch-name
+prg3
+git status
+git add .
+git stash save "fdg"
+git switch feature-b
+git switch master
+git stash list
+git stash apply
+git stash drop
+prg4
+git clone 
+cd repo
+git remote -v
+git log --oneline
+prg5 
+add few lines save in github
+git fetch origin
+git log HEAD..origin/main
+git rebase origin/main
+git log --oneline
+prg6
+git switch master 
+git log master..feature --oneline
+git merge --no-ff merge -
+git log --oneline -5
+prg9
+got show <comm>
+git log -1 <comm>
+git show <comm> --staatm "merge feature"
+git log --oneline
+prg7
+git log --oneline -3
+git tag v1.0
+git tag
+git log --oneline --decorate -3
+prg 9
+prg6
+git switch master 
+git log master..feature --oneline
+git merge --no-ff merge -
+git log --oneline -5
+got show <comm>
+git log -1 <comm>
+git show <comm> --staat
+prg10
+git log --author="lakshmi devi" --since="2026-9-91" --until="2026-01"
+git log --author="lakshmi devi" --since="2026-9-9" --until="2026-9-1" --oneline
+git log --all--author="lakshmi devi" --since="2026-9-9" --until="2026-9-1" --oneline
+prg11
+git log -5
+git log -5 --oneline
+git log -5 --oneline --graph
+prog12
+git log --oneline
+add few lines add commit
+git revert <cmm>
+git log --oneline -3
+prg 8
+git init 
+create an empty file no add commit
+git branch sourec
+git switch source-branch
+add few lines add 
+git switch master 
+git cherry-pick <comm>
+
+git log master..source --oneline
+git cherry-pick <cmid>
+git log --oneline -3
